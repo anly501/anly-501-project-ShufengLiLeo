@@ -1,0 +1,13 @@
+library(httr)
+library(jsonlite)
+library(tidyverse)
+
+my_url <- paste0("https://financialmodelingprep.com/api/v3/profile/TQQQ?apikey=ad175fec823f88356c5e87add3a2d61e")
+
+my_raw_result <- GET(my_url)
+
+k <- content(my_raw_result, as = "parsed")
+
+result <- bind_rows(k)
+
+write.csv(result, "result_R.csv")
