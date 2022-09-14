@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 7257,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Sarah Palin loses election to represent Alaska in Congress",
+            "description": "Democrat Mary Peltola will become the first Native American to represent Alaska in Congress.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-62747378",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17C04/production/_126548279_gettyimages-1412970386.jpg",
+            "publishedAt": "2022-09-01T00:30:01Z",
+            "content": "Ms Palin, 58, rose to prominence as a vice-presidential candidate in 2008. She has since become a key Trump ally."
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Democrat Mary Peltola wins special election to fill Alaska's U.S. House seat - Reuters",
+            "description": "Mary Peltola, a Democratic former state lawmaker and the first Native American woman to represent Alaska in Congress, won a special election to fill the state's sole U.S. House seat, the Alaska Division of Elections announced on Wednesday.",
+            "url": "https://www.reuters.com/world/us/democrat-mary-peltola-wins-special-election-fill-alaskas-us-house-seat-2022-09-01/",
+            "urlToImage": "https://www.reuters.com/resizer/iqUmJaaFC3mGP8w8-dQEXqBL9xY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R4CGOKDWDBIJBBAC3SXTBXUW7M.jpg",
+            "publishedAt": "2022-09-01T00:08:00Z",
+            "content": "Aug 31 (Reuters) - Mary Peltola, a Democratic former state lawmaker and the first Native American woman to represent Alaska in Congress, won a special election to fill the state's sole U.S. House sea\u2026 [+366 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "gpanetta@businessinsider.com (Grace Panetta)",
+            "title": "Mitch McConnell says efforts to overturn the 2020 election were 'not good' but American democracy is 'very solid'",
+            "description": "\"I wouldn't be worried about that one,\" McConnell said of American democracy, according to NBC News.",
+            "url": "https://www.businessinsider.com/mitch-mcconnell-american-democracy-is-very-solid-2022-8",
+            "urlToImage": "https://i.insider.com/6304d20fc9a2da0018092e91?width=1200&format=jpeg",
+            "publishedAt": "2022-08-23T13:58:45Z",
+            "content": "Senate Minority Leader Mitch McConnell says efforts spearheaded by President Donald Trump to overturn the 2020 election were \"not good,\" but he believes American democracy is currently \"very solid.\"\u00a0\u2026 [+2375 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Latin American leaders back Argentine VP after prosecutor's request - Reuters",
+            "description": "Latin American leaders sent their support to Argentina's Vice President Cristina Fernandez de Kirchner on Wednesday, after a federal prosecutor asked for extensive prison time in her corruption proceedings.",
+            "url": "https://www.reuters.com/world/americas/latin-american-leaders-back-argentine-vp-after-prosecutors-request-2022-08-24/",
+            "urlToImage": "https://www.reuters.com/resizer/GTHrX8C5hSJcpLxjfAJqsh5KXPM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IQ3M42V7VRKE3BKYRTLWK3SEG4.jpg",
+            "publishedAt": "2022-08-24T22:23:00Z",
+            "content": "BUENOS AIRES, Aug 24 (Reuters) - Latin American leaders sent their support to Argentina's Vice President Cristina Fernandez de Kirchner on Wednesday, after a federal prosecutor asked for extensive pr\u2026 [+1586 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "American voters deluged by ads in fight to control Congress, future elections - Reuters",
+            "description": "Maria Jones used to enjoy watching television - until November's midterm elections invaded her living room.",
+            "url": "https://www.reuters.com/world/us/american-voters-deluged-by-ads-fight-control-congress-future-elections-2022-09-06/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=109",
+            "publishedAt": "2022-09-06T10:14:00Z",
+            "content": "LOS ANGELES, Sept 6 (Reuters) - Maria Jones used to enjoy watching television - until November's midterm elections invaded her living room.\r\nFor months, Jones has been bombarded with political ads, u\u2026 [+6295 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Ron Elving",
+            "title": "Is America a democracy or a republic? Yes it is",
+            "description": "Election denialism has become not only a thing but a movement. And if critics call this an attack on democracy, some election deniers respond by saying the U.S. is not a democracy, it is a republic.",
+            "url": "https://www.npr.org/2022/09/10/1122089076/is-america-a-democracy-or-a-republic-yes-it-is",
+            "urlToImage": "https://media.npr.org/assets/img/2022/09/09/ap22187731471178_wide-3215e3b67f18c13aeee2f2d2db83b9bc077a3993.jpg?s=1400",
+            "publishedAt": "2022-09-10T09:00:59Z",
+            "content": "Silhouettes of people are seen on an American flag as President Joe Biden speaks on July 6, 2022, in Cleveland.\r\nEvan Vucci/AP\r\nWhat do we call the system of government in the U.S.? Are we a democrac\u2026 [+8654 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Guatemala says it will 'always support' Taiwan - Reuters",
+            "description": "Guatemalan Foreign Minister Mario Bucaro said on Tuesday that the Central American country will \"always support\" Taiwan, after China conducted its largest-ever military drills around the self-ruled island earlier this month.",
+            "url": "https://www.reuters.com/world/asia-pacific/guatemala-says-it-will-always-support-taiwan-2022-08-30/",
+            "urlToImage": "https://www.reuters.com/resizer/xQH_qMzHo7NxWTDxG6xVVmuVE4c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CXPFYXGOJFLFDL3PDX7IE5AYUU.jpg",
+            "publishedAt": "2022-08-30T03:24:00Z",
+            "content": "TAIPEI, Aug 30 (Reuters) - Guatemalan Foreign Minister Mario Bucaro said on Tuesday that the Central American country will \"always support\" Taiwan, after China conducted its largest-ever military dri\u2026 [+2406 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ydzhanova@businessinsider.com (Yelena Dzhanova)",
+            "title": "Lindsey Graham said Trump will lose in 2024 to Biden if he doesn't curb his personality: 'If it's a personality contest, he'll be in trouble'",
+            "description": "Since losing the 2020 presidential election, Trump has said at various times that he expects to win in 2024 should he run in the next one.",
+            "url": "https://www.businessinsider.com/lindsey-graham-trump-will-lose-biden-2024-personality-2022-9",
+            "urlToImage": "https://i.insider.com/62ed42ba80cc99001917059d?width=1200&format=jpeg",
+            "publishedAt": "2022-09-04T13:19:09Z",
+            "content": "Sen. Lindsey Graham said former President Donald Trump would be a strong contender in the 2024 presidential election if he could only curb his personality.\u00a0\r\nSpeaking in an interview with CNBC, Graha\u2026 [+2014 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Berlusconi takes to TikTok to court Italian youth vote - Reuters.com",
+            "description": "Former Prime Minister Silvio Berlusconi, aged 85, has joined a rush of Italian politicians taking to TikTok to court younger voters in this month's national election.",
+            "url": "https://www.reuters.com/world/europe/berlusconi-takes-tiktok-court-italian-youth-vote-2022-09-01/",
+            "urlToImage": "https://www.reuters.com/resizer/nW6oSY5l-ZgRXD1_kYFwh67Bogo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IWNUFQ5NLJJT3AFCPB6RY6R2TI.jpg",
+            "publishedAt": "2022-09-01T12:59:00Z",
+            "content": "ROME, Sept 1 (Reuters) - Former Prime Minister Silvio Berlusconi, aged 85, has joined a rush of Italian politicians taking to TikTok to court younger voters in this month's national election.\r\nBerlus\u2026 [+1665 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "kvlamis@insider.com (Kelsey Vlamis)",
+            "title": "January 6 committee is seeking information from Newt Gingrich, who they say urged Trump aides to air TV ads repeating false election claims",
+            "description": "The January 6 committee said texts also suggested Newt Gingrich was involved in the fake electors scheme to overturn the 2020 election results.",
+            "url": "https://www.businessinsider.com/january-6-committee-seeking-information-newt-gingrich-false-election-claims-2022-9",
+            "urlToImage": "https://i.insider.com/631140383fe7c40019e4f3a1?width=1200&format=jpeg",
+            "publishedAt": "2022-09-01T23:52:47Z",
+            "content": "The January 6 committee investigating the Capitol riot said Thursday it is seeking information from Newt Gingrich about his involvement in efforts to subvert 2020 election results.\r\nIn a letter sent \u2026 [+1534 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Cheryl Teh)",
+            "title": "Lindsey Graham told Trump he could win in 2024 and make 'one of the greatest political comebacks in American history'",
+            "description": "Graham told CNBC that he's been advising the former president that if he won again, he would get another four years to \"do big stuff.\"",
+            "url": "https://www.businessinsider.com/lindsey-graham-told-trump-he-could-win-in-2024-2022-9",
+            "urlToImage": "https://i.insider.com/6316d2d1ed92be0018c5e7f2?width=1200&format=jpeg",
+            "publishedAt": "2022-09-06T06:07:24Z",
+            "content": "Sen. Lindsey Graham says he's told former President Donald Trump that he stands a chance of winning the 2024 election if he runs again.\u00a0\r\nSpeaking to CNBC on Saturday, Graham said Trump has a \"pretty\u2026 [+1776 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Russia covertly spent $300m to meddle abroad - US",
+            "description": "The US alleges that Moscow has sought to buy political influence in more than 24 countries since 2014.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-62897570",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5744/production/_126704322_9da4888e6d601977fa40fba14617f0084496da7f.jpg",
+            "publishedAt": "2022-09-13T23:48:14Z",
+            "content": "Russia has covertly spent more than $300m (\u00a3260m) since 2014 to influence politicians in more than 24 countries, the US has alleged.\r\nThe Department of State's allegation is based on a declassified U\u2026 [+2389 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Jury finds two men guilty of plot to abduct Michigan governor - Reuters",
+            "description": "A jury on Tuesday convicted two men accused of conspiring to trigger \"a second American revolution\" by kidnaping Michigan Governor Gretchen Whitmer, handing the U.S. government a victory in its second attempt to prosecute the case.",
+            "url": "https://www.reuters.com/legal/jury-finds-two-men-guilty-plot-abduct-michigan-governor-2022-08-23/",
+            "urlToImage": "https://www.reuters.com/resizer/CWXmDoXWzxi8Tcj9to_cpsMmhIg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4S22VHDZOVN3BETXPFLSXF37EE.jpg",
+            "publishedAt": "2022-08-23T15:49:00Z",
+            "content": "Aug 23 (Reuters) - A jury on Tuesday convicted two men accused of conspiring to trigger \"a second American revolution\" by kidnaping Michigan Governor Gretchen Whitmer, handing the U.S. government a v\u2026 [+2562 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Cheryl Teh)",
+            "title": "Biden has a message for MAGA supporters: 'You can't love your country only when you win'",
+            "description": "\"Democracy cannot survive when one side believes there are only two outcomes to an election: either they win or they were cheated,\" Biden said.",
+            "url": "https://www.businessinsider.com/biden-magaworld-cannot-love-your-country-only-when-you-win-2022-9",
+            "urlToImage": "https://i.insider.com/62cf04bab0ab4f0018538620?width=1200&format=jpeg",
+            "publishedAt": "2022-09-02T07:32:57Z",
+            "content": "President Joe Biden on Thursday called out the MAGA world for only respecting free and fair democratic elections when they win them.\u00a0\u00a0\r\nDuring a prime-time speech, he spoke about the \"battle for the \u2026 [+1794 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "kbalevic@insider.com (Katie Balevic)",
+            "title": "Sen. Ron Johnson goes after FBI over alleged 'suppression of the Hunter Biden laptop': 'Joe Biden would not be president'",
+            "description": "\"Had the American public known the corruption of the Biden family and Hunter Biden, Joe Biden would not be president,\" Sen. Johnson said.",
+            "url": "https://www.businessinsider.com/johnson-biden-not-president-without-fbis-suppression-of-hunters-laptop-2022-8",
+            "urlToImage": "https://i.insider.com/630bc6a62b0eaf001893a9da?width=1200&format=jpeg",
+            "publishedAt": "2022-08-28T20:20:43Z",
+            "content": "Sen. Ron Johnson said that President Joe Biden would never have won the presidency if not for the FBI's alleged \"suppression\" of Hunter Biden's laptop.\r\nThe Wisconsin Republican made the remarks afte\u2026 [+1666 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "kbalevic@insider.com (Katie Balevic)",
+            "title": "Rep. Adam Schiff says he was 'encouraged to hear' that Mike Pence might testify before January 6 committee",
+            "description": "Schiff said the former vice president may have \"a lot of very firsthand information\" to share about efforts to overturn the election.",
+            "url": "https://www.businessinsider.com/schiff-encouraged-mike-pence-might-testify-jan-6-committee-2022-8",
+            "urlToImage": "https://i.insider.com/630275fac2794d00197eea69?width=1200&format=jpeg",
+            "publishedAt": "2022-08-21T18:41:19Z",
+            "content": "Democratic Rep. Adam Schiff of California said he was \"encouraged\" that former Vice President Mike Pence is considering testifying before the January 6 Committee.\u00a0\r\nPence said last week that he would\u2026 [+1531 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Hannah Demissie",
+            "title": "Democrat Mary Peltola defeats Sarah Palin in special election for Alaska's House seat",
+            "description": "Peltola will be the first Native American woman to represent Alaska in Congress.",
+            "url": "https://abcnews.go.com/Politics/democrat-mary-peltola-defeats-sarah-palin-special-election/story?id=88455630",
+            "urlToImage": "https://s.abcnews.com/images/International/mary-peltola-sarah-palin-01-gty-llr-220831_1661991609965_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-09-01T00:38:25Z",
+            "content": "Democrat Mary Peltola is projected to win the Alaska special general election for the states sole House seat, ABC News reports.\r\nPeltola defeated two Republicans -- former Republican Alaska Gov. Sara\u2026 [+2174 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Luke Mogelson",
+            "title": "\u2018American rebellion\u2019: the lockdown protests that paved the way for the Capitol riots",
+            "description": "In this extract from his book The Storm Is Here, New Yorker writer Luke Mogelson follows rightwing militias in Michigan protesting Covid restrictions in 2020. It was a lesson in the attitudes that led to the US Capitol attack the following January<ul><li>Read\u2026",
+            "url": "https://amp.theguardian.com/us-news/2022/aug/28/luke-mogelson-the-storm-is-here-capitol-attack-michigan-book",
+            "urlToImage": "https://i.guim.co.uk/img/media/c5309741ada9a0e450e674ddd7d713efef5e3c22/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=1b874126514801e9deaa49f0ea6b12ec",
+            "publishedAt": "2022-08-28T11:00:25Z",
+            "content": "It started in Michigan. On 15 April 2020, thousands of vehicles convoyed to Lansing and clogged the streets surrounding the state capitol for a protest that had been advertised as Operation Gridlock.\u2026 [+23840 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Brazil's currency seen trading in tight range ahead of election - Reuters",
+            "description": "Brazil's currency is forecast to hover in a tight range in dollar-dominated trading this month as Brazilians prepare to vote in the Oct. 2 presidential election, a Reuters poll showed on Wednesday.",
+            "url": "https://www.reuters.com/markets/currencies/brazils-currency-seen-trading-tight-range-ahead-election-2022-09-07/",
+            "urlToImage": "https://www.reuters.com/resizer/n0QYQZHiiH3BI1JFfntdp-LKtE4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6DKOJCIZYJMFRIINUL2PFZ47DM.jpg",
+            "publishedAt": "2022-09-07T15:51:00Z",
+            "content": "MEXICO CITY, Sept 7 (Reuters) - Brazil's currency is forecast to hover in a tight range in dollar-dominated trading this month as Brazilians prepare to vote in the Oct. 2 presidential election, a Reu\u2026 [+3054 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Tal Axelrod",
+            "title": "Why election experts worry for American democracy and what they say can be done",
+            "description": "Anti-democratic forces are on the rise in the U.S., with election denialism gaining a strong foothold in GOP politics and among American voters.",
+            "url": "https://abcnews.go.com/Politics/election-experts-worry-american-democracy/story?id=89133703",
+            "urlToImage": "https://s.abcnews.com/images/Politics/the-note-donald-trump-01-gty-llr-220821_1661114509346_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-09-06T12:47:56Z",
+            "content": "This story is part of the ABC News series \"Democracy in Peril,\" which examines the inflection point the country faces after the Jan. 6 attacks and ahead of the 2022 election.\r\nDonald Trump first intr\u2026 [+7407 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "gpanetta@businessinsider.com (Grace Panetta)",
+            "title": "Lame-duck Arizona House Speaker Rusty Bowers says allowing a state legislature to overturn a presidential election is 'fascist' and 'hogwash'",
+            "description": "\"Holy moly, this is just crazy. The place has lost its mind,\" the outgoing GOP Arizona House speaker said about efforts to overturn election results.",
+            "url": "https://www.businessinsider.com/rusty-bowers-a-state-legislature-overturning-an-election-is-fascist-2022-8",
+            "urlToImage": "https://i.insider.com/62b2238c4245600018ddd114?width=1200&format=jpeg",
+            "publishedAt": "2022-08-22T14:15:34Z",
+            "content": "Outgoing Arizona House Speaker Rusty Bowers says state legislatures giving themselves the power to overturn election results they don't like is \"not conservative\" but \"fascist \" and \"hogwash.\"\u00a0\r\nAfte\u2026 [+2471 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "gpanetta@businessinsider.com (Grace Panetta)",
+            "title": "Trump told aides 'I'm just not going to leave' days after losing the 2020 election, book says",
+            "description": "\"We're never leaving,\" Trump told an aide, according to a forthcoming book by a New York Times reporter. \"How can you leave when you won an election?\"",
+            "url": "https://www.businessinsider.com/trump-told-aides-he-wouldnt-leave-after-2020-election-book-2022-9",
+            "urlToImage": "https://i.insider.com/5fa301ba1df1d50018218e34?width=1200&format=jpeg",
+            "publishedAt": "2022-09-12T13:28:33Z",
+            "content": "President Donald Trump told aides he would refuse to leave office in the days following the 2020 election, according to a forthcoming book by New York Times reporter Maggie Haberman.\u00a0\r\nCNN reported M\u2026 [+1984 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boing Boing"
+            },
+            "author": "Mark Frauenfelder",
+            "title": "Gingrinch emailed Kushner after Trump lost with propaganda proposal to overthrow election",
+            "description": "The J6 committee is humbly requesting dark triad exemplar Newt Gingrich to talk to them about how he worked with Jared Kushner and Stephen Miller to create television ads designed to incite people into supporting an illegal presidential coup. An email Gingric\u2026",
+            "url": "https://boingboing.net/2022/09/02/gingrinch-emailed-kushner-after-trump-lost-with-propaganda-proposal-to-overthrow-election.html",
+            "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2022/09/shutterstock_180878498.jpg?fit=1200%2C960&ssl=1",
+            "publishedAt": "2022-09-02T20:11:19Z",
+            "content": "The J6 committee is humbly requesting dark triad exemplar Newt Gingrich to talk to them about how he worked with Jared Kushner and Stephen Miller to create television ads designed to incite people in\u2026 [+917 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Biden to tout climate change, prescription drugs law at White House event - Reuters.com",
+            "description": "President Joe Biden will celebrate his climate change and drug pricing law, The Inflation Reduction Act, on Tuesday with an event at the White House to highlight Democrats' commitment to progressive priorities ahead of the November election.",
+            "url": "https://www.reuters.com/world/us/biden-tout-climate-change-prescription-drugs-law-white-house-event-2022-09-13/",
+            "urlToImage": "https://www.reuters.com/resizer/1QmZvZ_zntI-nrv5DWNk0QpDSHs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APEXNODYRVIKREO2XXWHZRSPVA.jpg",
+            "publishedAt": "2022-09-13T09:03:00Z",
+            "content": "WASHINGTON, Sept 13 (Reuters) - President Joe Biden will celebrate his climate change and drug pricing law, The Inflation Reduction Act, on Tuesday with an event at the White House to highlight Democ\u2026 [+2962 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Insider Inc.)",
+            "title": "Joe Biden's top credential running in 2024, his allies say, is that he's beaten Trump before",
+            "description": "Rep. Ro Khanna said the possibility of Trump running is \"weighing\" on Biden, who will speak tonight on threats to American democracy.",
+            "url": "https://www.businessinsider.com/joe-biden-beat-trump-democrat-credential-for-2024-2022-9",
+            "urlToImage": "https://i.insider.com/62ed42ba80cc99001917059d?width=1200&format=jpeg",
+            "publishedAt": "2022-09-01T21:35:07Z",
+            "content": "Rep. Ro Khanna of California has been testing a message on \"economic patriotism\" that he thinks could resonate across the country. His name comes up as a possible presidential contender, and he says \u2026 [+5786 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Opinion by Nicole Hemmer",
+            "title": "Is America ready for the return of Sarah Palin?",
+            "description": "With Sarah Palin's attempted comeback underway, says Nicole Hemmer, we can connect the dots between how far right-wing antifeminist women helped fuel Palin's ascent and how, taken together, her career and former President Donald Trump's mirror each other's.",
+            "url": "https://www.cnn.com/2022/08/18/opinions/sarah-palin-comeback-donald-trump-hemmer/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220816193342-sarah-palin-file-080422-super-tease.jpg",
+            "publishedAt": "2022-08-18T13:19:30Z",
+            "content": "Nicole Hemmer is an associate professor of history and director of the Carolyn T. and Robert M. Rogers Center for the Study of the Presidency at Vanderbilt University. She is the author of \"Messenger\u2026 [+6961 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "USA TODAY",
+            "title": "Liz Cheney defeated by Trump-endorsed candidate; Palin, Murkowski on Alaska's ballot",
+            "description": "Rep. Liz Cheney was defeated by a Trump-endorsed candidate in the Wyoming primaries while Sarah Palin advanced to Alaska's general election.",
+            "url": "https://news.yahoo.com/liz-cheney-defeated-trump-endorsed-140956937.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6CkZgtsr.vyVXfpae_19UQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/hd/cp-video-transcode/production/1811c830-8746-37cc-ad7d-de904b4bf64b/2022-08-17/14-16-45/2659559f-3cf6-50e8-b768-beb30323cd8e/stream_1920x1080x0_v2_3_0.jpg",
+            "publishedAt": "2022-08-17T14:09:56Z",
+            "content": "An American tourist was found dead at the same Bahamas resort where three other US tourists died earlier this year. The man, as yet unidentified by police, is believed to have been in his 70s and was\u2026 [+198 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Robert Reich",
+            "title": "Democracy is under attack \u2013 and reporting that isn\u2019t \u2018violating journalistic standards\u2019 | Robert Reich",
+            "description": "Biden gave a rare primetime address on the most important challenge facing America \u2013 and the media coverage was just more he-said/she-said reactionJoe Biden\u2019s message Thursday evening was clear. American democracy is under attack.This was a rare primetime add\u2026",
+            "url": "https://amp.theguardian.com/commentisfree/2022/sep/04/biden-speech-democracy-attack-media-coverage-republicans",
+            "urlToImage": "https://i.guim.co.uk/img/media/f6f266061ad01c7bd93b7de7bec8f907330595fa/158_0_7847_4713/master/7847.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=cf7c6b6a0947f3f19b55079717e4b667",
+            "publishedAt": "2022-09-04T11:00:45Z",
+            "content": "Joe Bidens message Thursday evening was clear. American democracy is under attack.\r\nThis was a rare primetime address on the most important challenge facing the nation.\r\nBut the media treated the spe\u2026 [+3700 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Fact Check",
+            "title": "Fact Check-L.A. County disqualified 30% signatures in a petition, not 30% of ballots in a recall election - Reuters",
+            "description": "Claims that L.A. County rejected 30% of ballots in a recall race are false. Posts on social media confuse the number of signatures in a petition to vote for the recall of progressive District Attorney George Gasc\u00f3n that were found to be invalid with actual el\u2026",
+            "url": "https://www.reuters.com/article/factcheck-ballot-la-county-idUSL1N2ZZ0Q6",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2022-08-23T12:43:00Z",
+            "content": "Claims that L.A. County rejected 30% of ballots in a recall race are false. Posts on social media confuse the number of signatures in a petition to vote for the recall of progressive District Attorne\u2026 [+3902 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "AFP in Bras\u00edlia",
+            "title": "Heart of Brazil\u2019s first emperor returns after nearly 200 years for \u2018state visit\u2019",
+            "description": "Pedro I declared independence from Portugal in 1822, and relic is now at the centre of politically charged election year celebrationsNearly two centuries after it was cut from his corpse and preserved in formaldehyde, the heart of Emperor Pedro I, who declare\u2026",
+            "url": "https://amp.theguardian.com/world/2022/aug/22/heart-of-brazils-first-emperor-returns-after-nearly-200-years-for-state-visit",
+            "urlToImage": "https://i.guim.co.uk/img/media/6298e4d65fe0025ed4f1cb3f1b4f48c0e3ce1033/0_14_5616_3370/master/5616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=27f386809a1ae1794e48217cd38b95fc",
+            "publishedAt": "2022-08-22T22:06:38Z",
+            "content": "Nearly two centuries after it was cut from his corpse and preserved in formaldehyde, the heart of Emperor Pedro I, who declared Brazils independence from Portugal, has returned for politically charge\u2026 [+6344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Austin Sarat and Dennis Aftergut",
+            "title": "Americans are starting to get it: we can\u2019t let Trump \u2013 or Trumpism \u2013 back in office | Austin Sarat and Dennis Aftergut",
+            "description": "Republicans have put all their chips on extremism. But voters are sending more and more signals that they\u2019re fed up with itPolls and election results over the last week reminded Americans that politics seldom moves in a straight line. As in physics, action pr\u2026",
+            "url": "https://amp.theguardian.com/commentisfree/2022/aug/30/trump-republicans-voters-midterms-democrats",
+            "urlToImage": "https://i.guim.co.uk/img/media/2a97d1fb5344a8ea2d9cceb625416af456b8f3c6/0_94_4020_2414/master/4020.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=e4370e88ba56a7a45fbf2d4388b17ecf",
+            "publishedAt": "2022-08-30T10:15:04Z",
+            "content": "Polls and election results over the last week reminded Americans that politics seldom moves in a straight line. As in physics, action produces reaction. Overreach invites backlash.\r\nFor a long while \u2026 [+6309 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Martin Pengelly in New York",
+            "title": "\u2018Confederates were traitors\u2019: Ty Seidule on West Point, race and American history",
+            "description": "The discovery of a plaque showing a member of the Ku Klux Klan at the US military academy made headlines. One member of the commission which recommended its removal is a historian of the US army and the lost cause mythIn a 36-year army career, Ty Seidule serv\u2026",
+            "url": "https://amp.theguardian.com/books/2022/sep/05/confederates-traitors-seidule-west-point-race-history-ku-klux-klan-plaque-naming-commission",
+            "urlToImage": "https://i.guim.co.uk/img/media/cff544eb95c6621eeef599417275d0aa5271036d/0_26_5568_3341/master/5568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=79560a713533a93b1b77c3c6316baafb",
+            "publishedAt": "2022-09-05T06:00:11Z",
+            "content": "In a 36-year army career, Ty Seidule served in the US, Germany, Italy, Kenya, Kosovo, Macedonia, Saudi Arabia and Iraq. He retired a brigadier general.\r\nAn emeritus West Point history professor, he n\u2026 [+7384 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Explainer: How America casts and counts its votes - Reuters.com",
+            "description": "Misinformation online and false claims of election fraud by former President Donald Trump and his allies have sharply eroded public trust in the integrity of U.S. elections. How Americans vote \u2014 and the equipment they use \u2014 varies widely, and some methods are\u2026",
+            "url": "https://www.reuters.com/world/us/how-america-casts-counts-its-votes-2022-09-08/",
+            "urlToImage": "https://www.reuters.com/resizer/3tD6FrgYDJL9uTyzucdeJOBealI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CL6HNRITBVLNJN34HXOMS6D6ZI.jpg",
+            "publishedAt": "2022-09-08T10:09:00Z",
+            "content": "Sept 8 (Reuters) - Misinformation online and false claims of election fraud by former President Donald Trump and his allies have sharply eroded public trust in the integrity of U.S. elections. How Am\u2026 [+5415 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Alina Selyukh",
+            "title": "Quiet quitting, real quitting, unionizing \u2014 what else are American workers up to?",
+            "description": "How we work, when we work, how much we work \u2013 it's all shifting on a scale not seen in decades.",
+            "url": "https://www.npr.org/2022/09/04/1120718315/quiet-quitting-jobs-labor-day-remote-work-unions",
+            "urlToImage": "https://media.npr.org/assets/img/2022/09/02/gettyimages-1239668069-1-_wide-357f824f790f31dcfe0b4682dcf5b8b5b803d673.jpg?s=1400",
+            "publishedAt": "2022-09-04T11:01:17Z",
+            "content": "Organizer Chris Smalls speaks after his Amazon Labor Union won a vote to form the company's first unionized U.S. warehouse in Staten Island, N.Y., in April.\r\nAndrea Renault/AFP via Getty Images\r\nHow \u2026 [+4247 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Joey Palacios",
+            "title": "A Texas county's election administrators all resigned, leaving the state to step in",
+            "description": "In conservative Gillespie County, the elections administrator and her two deputies have resigned, with at least one citing threats fueled by misinformation.",
+            "url": "https://www.npr.org/2022/08/19/1118527241/texas-gillespie-county-election-officials-quit-threats",
+            "urlToImage": "https://media.npr.org/assets/img/2022/08/19/gettyimages-1238854273_wide-87dde0ef95145ca9780d16b5a4a2b63cf6a42dce.jpg?s=1400",
+            "publishedAt": "2022-08-19T21:30:34Z",
+            "content": "\"I Voted\" stickers are seen on March 1 in Austin, Texas.\r\nMontinique Monroe/Getty Images\r\nIn Texas, a county elections administrator and her two deputies have resigned, with at least one citing threa\u2026 [+6101 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ali Zaslav, Ted Barrett, Clare Foran",
+            "title": "McConnell says 'democracy is solid' in the US as he predicts close midterm elections",
+            "description": "Senate Minority Leader Mitch McConnell told an audience in Kentucky on Monday that he believes democracy in the United States is on solid ground and said he expects the outcome of the upcoming midterm elections \"to be very, very close either way\" in the Senat\u2026",
+            "url": "https://www.cnn.com/2022/08/23/politics/mcconnell-democracy-midterms/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220509111623-01-mitch-mcconnell-0503.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-08-23T15:12:23Z",
+            "content": "Senate Minority Leader Mitch McConnell told an audience in Kentucky on Monday that he believes democracy in the United States is on solid ground and said he expects the outcome of the upcoming midter\u2026 [+1703 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "wrojas@insider.com (Warren Rojas)",
+            "title": "Don Jr. and Ivanka are 'absolutely obsessed' with the power and influence associated with being in the White House, Trump documentary filmmaker says",
+            "description": "Trump's adult children only care about whatever they can do to ensure that their father remains in power, \"Unprecedented\" documentarian says.",
+            "url": "https://www.businessinsider.com/don-jr-ivanka-trump-alex-holder-absolutely-obsessed-with-power-2022-8",
+            "urlToImage": "https://i.insider.com/630f628515f72400199b0c0d?width=1200&format=jpeg",
+            "publishedAt": "2022-08-31T16:29:19Z",
+            "content": "Donald Trump Jr. and Ivanka Trump aren't ready to give up the prestige of being American political royalty \u00a0which is why they'll say or do anything to get their father back into the Oval Office, the \u2026 [+1559 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "The Associated Press",
+            "title": "Jan. 6 panel is asking former House Speaker Newt Gingrich for information",
+            "description": "The Jan. 6 investigatory panel is seeking information from Newt Gingrich about his communications with senior advisers to then-President Trump in the days leading up to the 2021 attack on the Capitol.",
+            "url": "https://www.npr.org/2022/09/02/1120687160/jan-6-panel-is-asking-former-house-speaker-newt-gingrich-for-information",
+            "urlToImage": "https://media.npr.org/assets/img/2022/09/02/gingrich.ap_wide-59de7c66d059d8da8e7cd9395b4f16138dd07c8d.jpg?s=1400",
+            "publishedAt": "2022-09-02T04:38:09Z",
+            "content": "Former House Speaker Newt Gingrich speaks before former President Donald Trump at an America First Policy Institute agenda summit at the Marriott Marquis in Washington, July 26, 2022.\r\nAndrew Harnik/\u2026 [+3879 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "Travis Waldron",
+            "title": "Arizona AG Candidate Who Believes 2020 Election Was \u2018Rigged\u2019 May Have Committed Voter Fraud",
+            "description": "Abraham Hamadeh says he\u2019d \u201cprosecute crimes of the rigged 2020 election.\u201d But in 2008, he seemingly admitted to committing election-related crimes.",
+            "url": "https://www.huffpost.com/entry/abe-hamadeh-arizona-attorney-general-voter-fraud_n_630643aee4b0f7df9bb5fad0",
+            "urlToImage": "https://img.huffingtonpost.com/asset/630644ce2000005c00f2ce61.jpeg?cache=TCMNQossVQ&ops=1200_630",
+            "publishedAt": "2022-08-24T17:59:14Z",
+            "content": "TUCSON, ARIZONA - JULY 31: Republican attorney general candidate for Arizona Abraham Hamadeh prepares to speak to supporters during a campaign event at the Whiskey Roads Restaurant &amp; Bar on July \u2026 [+5325 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tporter@businessinsider.com (Tom Porter)",
+            "title": "Liz Cheney said she could have easily won her primary if she went along with Trump's false claims about the election",
+            "description": "Cheney was defeated in the GOP primary on Tuesday in her state of Wyoming by a challenger who embraced Trump's baseless claims of a stolen presidency.",
+            "url": "https://www.businessinsider.com/liz-cheney-says-would-win-if-backed-trump-election-claims-2022-8",
+            "urlToImage": "https://i.insider.com/62fcb6f73a0dd1001995d242?width=1200&format=jpeg",
+            "publishedAt": "2022-08-17T10:32:09Z",
+            "content": "Rep. Liz Cheney said Tuesday that she could have won re-election in Wyoming if she had gone along with former President Donald Trump's false claims of election fraud.\r\nBut, she said, it was not a pri\u2026 [+2792 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "kgallagher@insider.com (Kayla Gallagher)",
+            "title": "Biden defends heckler who interrupted his speech shouting into a megaphone: 'They're entitled to be outrageous'",
+            "description": "Hecklers shouted expletives as Biden delivered his speech on Thursday addressing ongoing threats to democracy.",
+            "url": "https://www.businessinsider.com/biden-defends-heckler-during-his-primetime-speech-maga-2022-9",
+            "urlToImage": "https://i.insider.com/631213ce3fe7c40019e50182?width=1200&format=jpeg",
+            "publishedAt": "2022-09-02T14:41:28Z",
+            "content": "President Joe Biden's speech, which he called \"The Soul of the Union,\" addressing the ongoing threats to American democracy by Donald Trump and MAGA Republicans was met with hecklers in the crowd sho\u2026 [+3516 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BuzzFeed News"
+            },
+            "author": "David Mack",
+            "title": "Joe Biden Was SLAMMED For His Warning That The US, Still Reeling From An Attempted Coup, Is Facing Existential Threats That Could End Democracy As We Know It",
+            "description": "Biden's speech outlining the extensive evidence that one party is seeking to radically transform American democracy in order to ensure they never again lose an election was criticized as \"political.\"View Entire Post \u203a",
+            "url": "https://www.buzzfeednews.com/article/davidmack/biden-speech-democracy-threats-maga-trump-marines",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-09/2/16/campaign_images/d6cc372deeb4/joe-biden-was-slammed-for-his-warning-that-the-us-2-4469-1662134869-9_dblbig.jpg",
+            "publishedAt": "2022-09-02T16:06:13Z",
+            "content": "In the wake of a violent attempted coup propelled by disinformation from a candidate who handily lost an election but refused to concede and who is now preparing to run again on a pledge to pardon hi\u2026 [+2995 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "izavarise@insider.com (Isabella Zavarise)",
+            "title": "Mary Peltola \u2014 who defeated Sarah Palin in a special election \u2014 is sworn in as the first Alaska Native in the House of Representatives: 'It has taken 233 years for the US Congress to be fully represented'",
+            "description": "Mary Peltola is the first Alaska Native elected to Congress and was sworn in on Tuesday.",
+            "url": "https://www.businessinsider.com/mary-peltola-who-defeated-sarah-palin-first-alaska-native-congress-2022-9",
+            "urlToImage": "https://i.insider.com/63214e3389d2b3001894f215?width=1200&format=jpeg",
+            "publishedAt": "2022-09-14T06:15:30Z",
+            "content": "It was a historic day as Rep. Kaiali'i Kahele and Rep. Sharice Davids welcomed Mary Peltola to the US House of Representatives.\u00a0\r\nPeltola is the first Alaska Native elected to Congress and was sworn \u2026 [+547 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "David Sirota and Joel Warner",
+            "title": "Billions in \u2018dark money\u2019 is influencing US politics. We need disclosure laws | David Sirota and Joel Warner",
+            "description": "A donor secretly transferred $1.6bn to a Republican political group. Because of America\u2019s lax laws, the donation was never disclosed in any public record or databaseThis week, the Lever, ProPublica and the New York Times discovered the largest known political\u2026",
+            "url": "https://amp.theguardian.com/commentisfree/2022/aug/29/billions-in-dark-money-is-influencing-us-politics-we-need-disclosure-laws",
+            "urlToImage": "https://i.guim.co.uk/img/media/a77564c334ac28e61f4fec7a2196b7555ccdfb5e/0_215_9144_5486/master/9144.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=869af548b598f6c01e50fceb4f742263",
+            "publishedAt": "2022-08-29T10:19:23Z",
+            "content": "This week, the Lever, ProPublica and the New York Times discovered the largest known political advocacy donation in American history. We exposed a reclusive billionaires secret transfer of $1.6bn to \u2026 [+7510 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "kleonard@insider.com (Kimberly Leonard)",
+            "title": "Trump barely mentioned at conservative Florida conference featuring other top GOP stars who are trying to map out the future of the American right",
+            "description": "Republicans are split over whether to make promises to voters or simply bash Democrats.",
+            "url": "https://www.businessinsider.com/top-republicans-barely-mention-trump-at-conservative-florida-gathering-2022-9",
+            "urlToImage": "https://i.insider.com/6320b4aa89d2b3001894db41?width=1200&format=jpeg",
+            "publishedAt": "2022-09-13T17:39:59Z",
+            "content": "AVENTURA, Fl. Republicans are working to harness the populist movement Donald Trump started under his Make America Great Again campaign. Missing from it, though, is the ex-president.\u00a0\u00a0\r\nAt the JW Mar\u2026 [+7525 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "LATAM POLITICS TODAY Lula eyes 'green' farm loans to tackle Amazon deforestation - Reuters Canada",
+            "description": "LATAM POLITICS TODAY Lula eyes 'green' farm loans to tackle Amazon deforestation\u00a0\u00a0Reuters Canada",
+            "url": "https://www.reuters.com/world/americas/latam-politics-today-lula-eyes-green-farm-loans-tackle-amazon-deforestation-2022-08-17/",
+            "urlToImage": "https://www.reuters.com/resizer/fN-YPNVD69VhgwR7lHAyQW1Rj4U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HJWOP7XT3VMRHLYWQW7HDPP47Y.jpg",
+            "publishedAt": "2022-08-17T16:40:00Z",
+            "content": "Aug 17 (Reuters) - The latest in Latin American politics today:\r\nBrazil's Lula eyes 'green' farm loans to tackle Amazon deforestation\r\nSAO PAULO - Advisors to leftist Brazilian presidential hopeful L\u2026 [+2408 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boing Boing"
+            },
+            "author": "Rob Beschizza",
+            "title": "Alaska Democrat Mary Peltola flips House seat in special election, defeating Sarah Palin",
+            "description": "Mary Peltola, winner of today's special election in Alaska, is the first native and the first woman to hold the seat\u2014and the first Democrat to win a House race in the state for decades. She beat Republican Sarah Palin, who was attempting a political comeback \u2026",
+            "url": "https://boingboing.net/2022/08/31/alaska-democrat-mary-peltola-flips-house-seat-in-special-election-defeating-sarah-palin.html",
+            "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/Screen-Shot-2022-08-31-at-9.49.00-PM.jpg?fit=1078%2C678&ssl=1",
+            "publishedAt": "2022-09-01T02:00:35Z",
+            "content": "Mary Peltola, winner of today's special election in Alaska, is the first native and the first woman to hold the seatand the first Democrat to win a House race in the state for decades. She beat Repub\u2026 [+1081 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "jepstein@insider.com (Jake Epstein,Oma Seddiq)",
+            "title": "Liz Cheney says she's 'thinking about' running for president in 2024 and she'll do 'whatever it takes' to keep Trump from office",
+            "description": "Cheney said she'll make a decision on running in 2024 \"in the coming months\" in an interview with TODAY's Savannah Guthrie,",
+            "url": "https://www.businessinsider.com/liz-cheney-thinking-about-2024-presidential-run-stop-Trump-2022-8",
+            "urlToImage": "https://i.insider.com/62fceea43a0dd1001995d73f?width=1200&format=jpeg",
+            "publishedAt": "2022-08-17T13:21:28Z",
+            "content": "Rep. Liz Cheney said she's weighing a run for president in 2024, just hours after losing her Wyoming Republican primary to a candidate backed by former President Donald Trump.\u00a0\r\n\"I'm not going to mak\u2026 [+1744 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "David Smith Washington bureau chief",
+            "title": "Liz Cheney looks set to lose Congress seat to Trump-backed rival",
+            "description": "Polls show congresswoman trailing far behind conservative lawyer Harriet Hageman in Wyoming\u2019s Republican primaryWidely praised for her defence of democracy during the January 6 committee hearings, Liz Cheney looks set to lose her seat in Congress on Tuesday t\u2026",
+            "url": "https://amp.theguardian.com/us-news/2022/aug/16/liz-cheney-wyoming-primary-congress-harriet-hageman-trump",
+            "urlToImage": "https://i.guim.co.uk/img/media/6be5b67eeb897cd6cfeaadfe5c9b0416a8a38bb8/0_0_5601_3361/master/5601.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56bbf9d2ba7e70985396067e6fb77c4b",
+            "publishedAt": "2022-08-16T17:38:49Z",
+            "content": "Widely praised for her defence of democracy during the January 6 committee hearings, Liz Cheney looks set to lose her seat in Congress on Tuesday to a rival backed by former US president Donald Trump\u2026 [+3930 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Xan Brooks",
+            "title": "The Unfolding by AM Homes review \u2013 jittery tale of Republican conspiracy",
+            "description": "Set in the wake of Obama\u2019s election, AM Homes\u2019s satirical prehistory of the Maga movement is caught between two erasOne voter\u2019s dream is another\u2019s nightmare, especially in the fevered, tribal world of 21st-century US politics, where the House is divided and t\u2026",
+            "url": "https://amp.theguardian.com/books/2022/aug/31/the-unfolding-by-am-homes-review-jittery-tale-of-republican-conspiracy",
+            "urlToImage": "https://i.guim.co.uk/img/media/56394f6869f79518b18b71150b70df3cb1757dbf/0_264_3815_2288/master/3815.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77cec42353ebbcea89485277ca1a83bb",
+            "publishedAt": "2022-08-31T06:30:21Z",
+            "content": "One voters dream is anothers nightmare, especially in the fevered, tribal world of 21st-century US politics, where the House is divided and the red states and blue states pull in opposing directions.\u2026 [+5585 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Associated Press",
+            "title": "Trump loyalist Markwayne Mullin wins Republican Oklahoma Senate runoff",
+            "description": "Plumbing company owner who embraced the former president\u2019s big lie seeks to replace retiring Senator Jim InhofeThe congressman Markwayne Mullin beat another Trump loyalist and election denier for the Republican nomination in a special election for US Senate i\u2026",
+            "url": "https://amp.theguardian.com/us-news/2022/aug/23/markwayne-mullin-oklahoma-special-election-tw-shannon",
+            "urlToImage": "https://i.guim.co.uk/img/media/11e0c4789bf20cbefac13a4bdad27a6e3df47b51/0_324_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11ab950f2aaaa11a0e1ec72d8dcebb18",
+            "publishedAt": "2022-08-24T01:07:07Z",
+            "content": "The congressman Markwayne Mullin beat another Trump loyalist and election denier for the Republican nomination in a special election for US Senate in Oklahoma on Tuesday.\r\nMullin, a plumbing company \u2026 [+2135 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Miami Herald"
+            },
+            "author": "the Miami Herald Editorial Board",
+            "title": "DeSantis comes to rescue an embattled Nunez. Busing migrants to Delaware not all that urgent, it seems | Editorial",
+            "description": "Florida Lt. Gov. Jeanette Nu\u00f1ez said what she said, without nuance or full knowledge, and set off a pre-Election Day tempest that, after three days, still is...",
+            "url": "https://www.miamiherald.com/opinion/editorials/article264779784.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/ygzkUqtkse6LwkTWmeNB6Q--~B/aD03NjA7dz0xMTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/miami_herald_mcclatchy_975/614192a455c02ce860acb3f823f4fbc5",
+            "publishedAt": "2022-08-23T18:07:50Z",
+            "content": "Florida Lt. Gov. Jeanette Nu\u00f1ez said what she said, without nuance or full knowledge, and set off a pre-Election Day tempest that, after three days, still is kicking up a lot of dust, that even Gov. \u2026 [+4499 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Opinion by Dean Obeidallah",
+            "title": "Opinion: Trump's incendiary rally proved President Biden was right",
+            "description": "Former President Donald Trump gave his first public speech this weekend since President Joe Biden warned Americans in a televised address that \"Trump and the MAGA Republicans represent an extremism that threatens the very foundations of our republic.\" And how\u2026",
+            "url": "https://www.cnn.com/2022/09/04/opinions/trump-weekend-rally-biden-obeidallah/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220904175441-trump-weekend-speech-obeidallah-super-tease.jpg",
+            "publishedAt": "2022-09-05T01:44:01Z",
+            "content": "Dean Obeidallah, a former attorney, is the host of SiriusXM radio's daily program \"The Dean Obeidallah Show\" and a columnist for The Daily Beast. Follow him @DeanObeidallah. The opinions expressed in\u2026 [+5237 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Joey Garrison, USA TODAY",
+            "title": "'MAGA forces' determined to 'take country backwards,' Biden says in speech from Philadelphia",
+            "description": "Biden warned \"equality and democracy are under assault,\" singling out Donald Trump by name and his supporters who have denied 2020 election results.",
+            "url": "https://www.usatoday.com/story/news/politics/2022/09/01/biden-speech-challenges-maga/7962661001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/09/02/USAT/eb7fb847-171b-43e3-adb7-945fcdff777a-Biden_philly.jpg?auto=webp&crop=7566,4256,x0,y384&format=pjpg&width=1200",
+            "publishedAt": "2022-09-02T00:29:07Z",
+            "content": "WASHINGTON\u00a0\u2014 President Joe Biden said\u00a0\"MAGA forces are determined to take this country backwards\"\u00a0in a prime-time address to the nation Thursday, urging Americans to \"stand up\" to defend democracy am\u2026 [+4682 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "kvlamis@insider.com (Kelsey Vlamis)",
+            "title": "Pennsylvania governor candidate Doug Mastriano prayed Trump would 'seize the power' ahead of January 6, video shows",
+            "description": "Doug Mastriano prayed Congress would \"rise up with boldness\" on the 6th of January in a December 2020 Zoom call published by Rolling Stone.",
+            "url": "https://www.businessinsider.com/doug-mastriano-prayed-trump-would-seize-power-january-6-video-2022-9",
+            "urlToImage": "https://i.insider.com/631d2ddfc3104e0012506f78?width=1200&format=jpeg",
+            "publishedAt": "2022-09-11T01:43:02Z",
+            "content": "In a December 2020 meeting with Christian nationalists, State Sen. Doug Mastriano prayed Congress would \"rise up\" on January 6 and \"disregard\" Pennsylvania's election results, according to a video pu\u2026 [+2846 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (John L. Dorman)",
+            "title": "Ex-Fox News editor Chris Stirewalt says the 2020 RNC fireworks display spelling 'Trump' near the Washington Monument was a 'brazen taking of our shared national heritage': book",
+            "description": "Stirewalt in his newly-released book argued that the fireworks display after Trump's 2020 RNC speech \"was not just bad taste, but idolatry.\"",
+            "url": "https://www.businessinsider.com/chris-stirewalt-fox-news-trump-2020-election-rnc-fireworks-gop-2022-8",
+            "urlToImage": "https://i.insider.com/630bc82d417a0a0019107516?width=1200&format=jpeg",
+            "publishedAt": "2022-08-28T20:05:54Z",
+            "content": "The former Fox News political editor Chris Stirewalt in his newly-released book criticized the use of the White House grounds as the main stage for the 2020 Republican National Convention deriding mu\u2026 [+3228 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Analysis: Rejected by Wyoming Republicans, Cheney sets sights on stopping Trump - Reuters",
+            "description": "After being soundly rejected by Wyoming Republican voters, U.S. Representative Liz Cheney vowed to spend the next two years trying to stop Donald Trump from returning to the White House - possibly with her own anti-Trump presidential bid.",
+            "url": "https://www.reuters.com/world/us/rejected-by-wyoming-republicans-cheney-sets-sights-stopping-trump-2022-08-17/",
+            "urlToImage": "https://www.reuters.com/resizer/NkJrMo-Uc9EbSs_kxAYfzIOe6SA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EUN47N3NVZO5XPEKYFNB7CIIVE.jpg",
+            "publishedAt": "2022-08-17T18:51:00Z",
+            "content": "WASHINGTON, Aug 17 (Reuters) - After being soundly rejected by Wyoming Republican voters, U.S. Representative Liz Cheney vowed to spend the next two years trying to stop Donald Trump from returning t\u2026 [+4701 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "David Smith in Jackson, Wyoming",
+            "title": "What will it mean for Trump \u2013 and Biden \u2013 if Liz Cheney runs in 2024?",
+            "description": "Trump Republican adversary could make a symbolic impact in the \u2018moderate\u2019 party lane \u2013 but she could also take votes from BidenWhen Liz Cheney left the podium at a Wyoming ranch on Tuesday night, clapped and cheered by supporters, a Tom Petty song boomed out \u2026",
+            "url": "https://amp.theguardian.com/us-news/2022/aug/17/liz-cheney-biden-trump-2024-election",
+            "urlToImage": "https://i.guim.co.uk/img/media/367b4266354a12450b459153d20f5f8c7e2b4151/0_237_4740_2844/master/4740.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=44def49f05c573d50db6129a3caaa968",
+            "publishedAt": "2022-08-17T18:16:07Z",
+            "content": "When Liz Cheney left the podium at a Wyoming ranch on Tuesday night, clapped and cheered by supporters, a Tom Petty song boomed out beneath the Teton mountains: Well, I wont back down / No, I wont ba\u2026 [+5580 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Jonathan Jones, Sam Jordison, Rebecca Liu, Hollie Richardson and Jenessa Williams",
+            "title": "Get bent: music, film, books and more about corruption",
+            "description": "From murky goings-on within Fifa to warring media scions, our critics select culture that delights in degradationWritten in response to the accusations of corruption within Fifa around the 2014 World Cup, Declan McKenna\u2019s Brazil is multifaceted in its outlook\u2026",
+            "url": "https://amp.theguardian.com/tv-and-radio/2022/sep/12/cultural-prescription-brazil-widows-succession-american-tabloid-hogarth",
+            "urlToImage": "https://i.guim.co.uk/img/media/fc39731d71f7fa8c1ca51241a7b1f2a75fdd6db4/0_35_1200_720/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=38b732ff630f7ee84b3173a7599cd6fa",
+            "publishedAt": "2022-09-12T09:00:02Z",
+            "content": "Music\r\nWritten in response to the accusations of corruption within Fifa around the 2014 World Cup, Declan McKennas Brazil is multifaceted in its outlook, and all the more impressive when you consider\u2026 [+3254 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Explainer: What's at stake in the 2022 U.S. congressional elections - Reuters",
+            "description": "Control of the U.S. Congress is at stake in November's midterm elections, along with President Joe Biden\u2019s remaining policy agenda.",
+            "url": "https://www.reuters.com/world/us/whats-stake-2022-us-congressional-elections-2022-09-07/",
+            "urlToImage": "https://www.reuters.com/resizer/WLOvqyfs-QIYDOQvoHyiHWvkvZI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FE7UXAB7XFJGVEWTQMYV5R5AO4.jpg",
+            "publishedAt": "2022-09-07T10:04:00Z",
+            "content": "WASHINGTON, Sept 7 (Reuters) - Control of the U.S. Congress is at stake in November's midterm elections, along with President Joe Bidens remaining policy agenda.\r\nRepublicans stand a strong chance of\u2026 [+5178 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Chris McGreal",
+            "title": "Bannon is not finished: his \u2018precinct strategy\u2019 could alter US elections for years",
+            "description": "One longtime Bannon watcher says it\u2019s too early to count him out \u2013 even a prison term could enhance his status among the Maga crowdWhen Steve Bannon heard that he was, after all, going to face charges last week for allegedly ripping off contributors to a mult\u2026",
+            "url": "https://amp.theguardian.com/us-news/2022/sep/10/steve-bannon-fraud-charges-elections-maga",
+            "urlToImage": "https://i.guim.co.uk/img/media/1ef74d77735b75d214524ee47356adc18be92af1/0_105_4802_2881/master/4802.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba34f93c3a5d251126112e0e8bf09ac1",
+            "publishedAt": "2022-09-10T06:30:00Z",
+            "content": "When Steve Bannon heard that he was, after all, going to face charges last week for allegedly ripping off contributors to a multimillion-dollar fund to build a wall on the Mexican border, he claimed \u2026 [+6331 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ngaudiano@insider.com (Nicole Gaudiano)",
+            "title": "Just 2 other members of Joe Biden's freshman Senate class are still living. Both men are in their early 90s and left politics long ago.",
+            "description": "One of those men, James Abourezk, wrote that Biden once called him a \"dirty bastard\" over his opposition to Biden's anti-busing legislation.",
+            "url": "https://www.businessinsider.com/joe-biden-president-age-senate-two-other-still-living-2022-9",
+            "urlToImage": "https://i.insider.com/6320eff289d2b3001894ed1c?width=1200&format=jpeg",
+            "publishedAt": "2022-09-13T21:51:12Z",
+            "content": "After a half a century in federal politics, President Joe Biden has outlasted many of his political contemporaries.\r\nOnly two other members of his freshman Senate class, which was entirely male, are \u2026 [+2370 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "gglover@insider.com (George Glover)",
+            "title": "JPMorgan chief Jamie Dimon says China has 'serious issues' - and lays out what the US needs to do to push back against Beijing",
+            "description": "\"America needs to take a leadership position,\" Dimon told the firm's wealthy clients last week.",
+            "url": "https://markets.businessinsider.com/news/stocks/jpmorgan-ceo-jamie-dimon-stock-market-investing-analysis-china-taiwan-2022-8",
+            "urlToImage": "https://i.insider.com/62fa2b20f16a0d0018e67e7d?width=1200&format=jpeg",
+            "publishedAt": "2022-08-15T13:22:17Z",
+            "content": "JPMorgan chief executive Jamie Dimon has said China faces \"serious issues\" regarding its energy and food usage - and urged the US to take more of a stand against Beijing.\r\nDimon pointed out China is \u2026 [+1908 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Jon Henley",
+            "title": "Dancing in the limelight: when world leaders take to the dancefloor",
+            "description": "Sanna Marin follows in a long line of politicians filmed dancing, some more enthusiastically than othersSanna Marin\u2019s penchant for partying may have landed her in a spot of bother at home, but even her fiercest critics would not deny that the Finnish prime mi\u2026",
+            "url": "https://amp.theguardian.com/world/2022/aug/19/world-leaders-dancefloor-videos-sanna-marin",
+            "urlToImage": "https://i.guim.co.uk/img/media/66139f0c64fb7bc86a0d4557f53e935b7f8e0147/0_266_1018_610/master/1018.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9f5f522fee1cf2894f42194808e2f36f",
+            "publishedAt": "2022-08-19T13:11:54Z",
+            "content": "Sanna Marins penchant for partying may have landed her in a spot of bother at home, but even her fiercest critics would not deny that the Finnish prime minister throws more than competent shapes cert\u2026 [+1545 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "David Folkenflik",
+            "title": "Fox producer's warning against Jeanine Pirro surfaces in Dominion defamation suit",
+            "description": "Jeanine Pirro, Tucker Carlson and others are being grilled under oath in a $1.6 billion defamation lawsuit against Fox News for spreading lies about a voting tech company's role in the 2020 elections.",
+            "url": "https://www.npr.org/2022/09/06/1121187542/dominion-voting-fox-news-lawsuit-pirro",
+            "urlToImage": "https://media.npr.org/assets/img/2022/09/05/fox-and-dominion_wide-0aeac2a502a4501780e38319b0e05c35030f5260.jpg?s=1400",
+            "publishedAt": "2022-09-06T09:00:49Z",
+            "content": "Among the stars being questioned under oath for Dominion Voting Systems' defamation suit against Fox News are Tucker Carlson, Sean Hannity and Maria Bartiromo. Banners bearing their images hang from \u2026 [+14686 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "gpanetta@businessinsider.com (Grace Panetta)",
+            "title": "Former Trump lawyer thinks the ex-president risks being disqualified from office over his handling of January 6 riot",
+            "description": "Ex-White House lawyer Ty Cobb said Trump's inaction on January 6 \"clearly gave aid and comfort to the insurrectionists\" in an interview with CBS.",
+            "url": "https://www.businessinsider.com/trump-risks-disqualification-from-office-over-jan-6-riot-ex-lawyer-2022-9",
+            "urlToImage": "https://i.insider.com/62cdd3b9114c1e001873412e?width=1200&format=jpeg",
+            "publishedAt": "2022-09-09T18:35:09Z",
+            "content": "Former Trump White House lawyer Ty Cobb said former President Donald Trump risks not just prosecution, but disqualification from office under the 14th Amendment over the January riots in an interview\u2026 [+3672 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Anthony Cummins",
+            "title": "AM Homes: \u2018We want to believe that opportunity exists for women now; it does and it doesn\u2019t\u2019",
+            "description": "The US author on trying to add a note of optimism to her work, getting advice from Jeanette Winterson, and her prescient new novel about a coup in WashingtonAM Homes, 60, is the author of 12 books, including 1996\u2019s The End of Alice, narrated by a jailed paedo\u2026",
+            "url": "https://amp.theguardian.com/books/2022/aug/27/am-homes-interview-unfolding-end-of-alice-we-want-to-believe-that-opportunity-exists-for-women",
+            "urlToImage": "https://i.guim.co.uk/img/media/3bc7e10e90d2adfed2efa61c032438ed1c063716/0_445_7822_4694/master/7822.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=02e7400d2d61539091fae31a1aedf423",
+            "publishedAt": "2022-08-27T17:00:04Z",
+            "content": "AM Homes, 60, is the author of 12 books, including 1996s The End of Alice, narrated by a jailed paedophile, Music for Torching (1999), about the build-up to a school shooting, and May We Be Forgiven,\u2026 [+5823 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bgriffiths@insider.com (Brent D. Griffiths)",
+            "title": "Ron Klain says there are times on January 6 when he wondered whether Biden would ever be inaugurated",
+            "description": "The White House chief of staff said welcoming Biden to the Oval Office after his inauguration was \"the biggest victory we could ever win.\"",
+            "url": "https://www.businessinsider.com/ron-klain-wondered-january-6-biden-would-be-sworn-in-2022-8",
+            "urlToImage": "https://i.insider.com/62ff8e33f1df7e0018eb4914?width=1200&format=jpeg",
+            "publishedAt": "2022-08-19T13:44:44Z",
+            "content": "White House chief of staff Ron Klain admitted that there were moments on January 6 when he wondered if Joe Biden would ever become president as a mob stormed the Capitol.\r\n\"There were times on Januar\u2026 [+2283 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Leyland Cecco in Toronto",
+            "title": "US to extradite Canadian writer accused of faking own death and kidnapping son",
+            "description": "Indigenous author Dawn Walker who says she fled domestic abuse, arrested and accused of stealing friend\u2019s identity to cross borderAn acclaimed writer who says she fled Canada to escape domestic abuse is to be extradited from the US, amid accusations she faked\u2026",
+            "url": "https://amp.theguardian.com/world/2022/aug/24/us-extradite-canadian-writer-dawn-walker-faked-death",
+            "urlToImage": "https://i.guim.co.uk/img/media/dd45608ef44d62bf0baa0adc1a4dfa8deb3492b3/0_140_2735_1641/master/2735.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=183bad68f1b956d20c270cbc227dc9ef",
+            "publishedAt": "2022-08-24T18:32:03Z",
+            "content": "An acclaimed writer who says she fled Canada to escape domestic abuse is to be extradited from the US, amid accusations she faked her own death, kidnapped her son and illegally crossed the American b\u2026 [+3952 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Simon Tisdall",
+            "title": "Putin is trapped and desperate. Will his friends in the west rescue him? | Simon Tisdall",
+            "description": "Russia\u2019s leader and his sympathisers could use old conflicts to distract attention from Ukraine and weaken European unity<ul><li>Russia-Ukraine war: latest updates</li></ul>\u2018The mass of men lead lives of quiet desperation.\u201d So wrote American author Henry Davi\u2026",
+            "url": "https://amp.theguardian.com/commentisfree/2022/aug/28/putin-is-trapped-and-desperate-will-his-friends-in-the-west-rescue-him-russia-ukraine",
+            "urlToImage": "https://i.guim.co.uk/img/media/c88ba202491fbffe913ccf0e8a13564459b97913/0_24_3501_2101/master/3501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=6ac656f842eacab34218aa13073480a9",
+            "publishedAt": "2022-08-28T09:00:24Z",
+            "content": "The mass of men lead lives of quiet desperation. So wrote American author Henry David Thoreau in 1854. Its a fate that is rapidly overtaking Vladimir Putin as he struggles to escape the disastrous tr\u2026 [+5962 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Ramon Antonio Vargas",
+            "title": "Correspondent abruptly leaves CNN after calling Trump a \u2018demagogue\u2019",
+            "description": "John Harwood is out as the company\u2019s new head signals shift away from liberal-leaning political coverageA White House correspondent for CNN \u2013 whose new leader wants the channel to adopt what he considers a more politically neutral voice to its coverage \u2013 has \u2026",
+            "url": "https://amp.theguardian.com/media/2022/sep/02/john-harwood-cnn-correspondent-leaves-trump-demagogue",
+            "urlToImage": "https://i.guim.co.uk/img/media/7c32dba07d6961f23769758e7327efd66ca4fd88/0_186_5568_3341/master/5568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e277a6245c5397dcb6c4eb2e2704a0a9",
+            "publishedAt": "2022-09-02T20:54:35Z",
+            "content": "A White House correspondent for CNN whose new leader wants the channel to adopt what he considers a more politically neutral voice to its coverage has departed the network after calling Donald Trump \u2026 [+3777 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Lauren Gambino in Washington",
+            "title": "Biden to warn \u2018extremist\u2019 Republicans loyal to Trump threaten US democracy",
+            "description": "President is expected to cast midterms as high-stakes battle for the \u2018soul of the nation\u2019 in primetime address from PhiladelphiaJoe Biden will warn on Thursday that an \u201cextremist\u201d faction of the Republican party loyal to former president Donald Trump presents\u2026",
+            "url": "https://amp.theguardian.com/us-news/2022/sep/01/biden-speech-philadelphia-extremist-republicans-threaten-democracy",
+            "urlToImage": "https://i.guim.co.uk/img/media/619c4cb01d3773eb18997b29fccdc383affbe05f/0_78_4835_2903/master/4835.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a333fdd1e55dbed698075b4d77810a2c",
+            "publishedAt": "2022-09-01T21:29:26Z",
+            "content": "Joe Biden will warn on Thursday that an extremist faction of the Republican party loyal to former president Donald Trump presents a direct threat to American democracy.\r\nIn a primetime address from P\u2026 [+2554 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "salarshani@businessinsider.com (Sarah Al-Arshani)",
+            "title": "Senate Intelligence chair says it's 'stunning' that over 20 years after Sept. 11, attacks on the symbol of democracy are 'not coming from terrorists' but from 'insurgents' at the Capitol on Jan. 6",
+            "description": "Sen. Mark Warner said he hopes to see the \"same kind of unity of spirit,\" after the January 6 riot as he did following the 9/11 attacks.",
+            "url": "https://www.businessinsider.com/senate-intelligence-chair-911-january-6-symbol-attack-democracy-2022-9",
+            "urlToImage": "https://i.insider.com/631e13fee8b500001850b989?width=1200&format=jpeg",
+            "publishedAt": "2022-09-11T18:06:55Z",
+            "content": "Senate Intelligence chair Mark Warner said it's \"stunning\" that 21 years after the September 11, 2001, terrorist attacks, \"the attack on the symbol of our democracy\" hadn't come from foreign threats \u2026 [+1468 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "salarshani@businessinsider.com (Sarah Al-Arshani)",
+            "title": "Sanders says Roe v. Wade reversal could be a boon for Democrats in upcoming midterms, boosting their Senate majority",
+            "description": "\"I think that decision is going to reverberate very poorly for Republicans who think that women do not have a right to control their own bodies,\" he said.",
+            "url": "https://www.businessinsider.com/sanders-says-roe-decision-help-democrats-keep-control-senate-2022-8",
+            "urlToImage": "https://i.insider.com/630b8510b9aebd0018d9a602?width=1200&format=jpeg",
+            "publishedAt": "2022-08-28T15:53:38Z",
+            "content": "Sen. Bernie Sanders said the Supreme Court's overturning of Roe v. Wade could help Democrats keep control of the Senate in the upcoming election.\u00a0\r\n\"I think that what the Supreme Court did in saying \u2026 [+1673 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tmitchell@insider.com (Taiyler Simone Mitchell)",
+            "title": "Hillary Clinton, who was investigated for using a private email server, says Trump should be held accountable as DOJ looks into classified documents at Mar-a-Lago",
+            "description": "Trump is accused of violating three laws \u2014 including a portion of the Espionage Act \u2014 which could land him up to 33 years behind bars if convicted.",
+            "url": "https://www.businessinsider.com/hillary-clinton-trump-held-accountable-2022-9",
+            "urlToImage": "https://i.insider.com/631e7587e8b500001850bd7c?width=1200&format=jpeg",
+            "publishedAt": "2022-09-12T01:17:47Z",
+            "content": "As the investigation into classified documents found at Donald Trump's Mar-a-Lago residence presses on, Hillary Clinton said she believes\u00a0her former political opponent should be held accountable for \u2026 [+1733 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Paul Steinhauser",
+            "title": "Republican governor says he knows why Biden keeps blasting MAGA Republicans with 'angry rhetoric'",
+            "description": "GOP Gov. Larry Hogan argues that President Biden\u2019s repeated jabs the past week targeting \"MAGA Republicans\" who have embraced \"semi-fascism\u201d is \u201cpretty...",
+            "url": "https://news.yahoo.com/republican-governor-says-knows-why-161105772.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/p6oje8bsAbfBqIkCGh23Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_news_text_979/e3da9cc7ab4469acdd35d0d354e4e338",
+            "publishedAt": "2022-08-31T16:11:05Z",
+            "content": "EXCLUSIVE GOP Gov. Larry Hogan argues that President Bidens repeated jabs the past week targeting \"MAGA Republicans\" who have embraced \"semi-fascism\" is \"pretty divisive, angry rhetoric.\"\r\nHogan, in \u2026 [+6315 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Lula: no need to fell a single tree to boost Brazil farm output - Reuters Canada",
+            "description": "Brazil's presidential frontrunner Luiz Inacio Lula da Silva said on Monday his country did not need to cut a single tree to plant more soybeans, sugarcane or raise cattle as he vowed to restore law enforcement in the Amazon rainforest to curb deforestation.",
+            "url": "https://www.reuters.com/world/americas/lula-no-need-fell-single-tree-boost-brazil-farm-output-2022-08-22/",
+            "urlToImage": "https://www.reuters.com/resizer/BdWyyrFHouO3NorNNBHnZitElKk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AG6WSVP6WNMEPAJWYU7ZILYSSI.jpg",
+            "publishedAt": "2022-08-22T17:34:00Z",
+            "content": "SAO PAULO, Aug 22 (Reuters) - Brazil's presidential frontrunner Luiz Inacio Lula da Silva said on Monday his country did not need to cut a single tree to plant more soybeans, sugarcane or raise cattl\u2026 [+2307 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Mariam Khan",
+            "title": "Liz Cheney on stopping Trump, Pence testifying on Jan. 6: 'This Week' exclusive",
+            "description": "GOP Rep. Liz Cheney told ABC News\u2019 Jonathan Karl that she has no regrets about her political career including her primary election loss in Wyoming on Tuesday.",
+            "url": "https://abcnews.go.com/Politics/liz-cheney-stopping-trump-pence-testifying-jan-week/story?id=88456566",
+            "urlToImage": "https://s.abcnews.com/images/Politics/liz-cheney-intv-vdbg-abc-ps-220819_1660932631208_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-08-21T13:03:33Z",
+            "content": "GOP Rep. Liz Cheney, once a rising star in the Republican Party and considered a potential speaker of the House, told ABC News' Chief Washington Correspondent Jonathan Karl she has no regrets about h\u2026 [+21756 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Martin Pengelly in New York and agencies",
+            "title": "Trump calls FBI, DoJ \u2018vicious monsters\u2019 in first rally since Mar-a-Lago search",
+            "description": "Former president also calls Joe Biden\u2019s Philadelphia address the \u2018most vicious, hateful, divisive speech\u2019Speaking in Pennsylvania on Saturday, at his first rally since the FBI searched Mar-a-Lago for top-secret material taken from the White House and since Jo\u2026",
+            "url": "https://amp.theguardian.com/us-news/2022/sep/04/trump-rally-fbi-doj-vicious-monsters-mar-a-lago-search",
+            "urlToImage": "https://i.guim.co.uk/img/media/e9464847cca540c4c4002e2913d813f638824ba9/0_365_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a0bf26b2d5ac169ab47eaa83671a936d",
+            "publishedAt": "2022-09-04T12:11:45Z",
+            "content": "Speaking in Pennsylvania on Saturday, at his first rally since the FBI searched Mar-a-Lago for top-secret material taken from the White House and since Joe Biden used a primetime address to warn that\u2026 [+4445 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Alexandra Hutzler",
+            "title": "Biden attacks Trump and MAGA Republicans as threat to American democracy",
+            "description": "\"Too much of what's happening in our country today is not normal,\" Biden said as he urged the American people to unite against threats to our democracy.",
+            "url": "https://abcnews.go.com/Politics/biden-attacks-trump-maga-republicans-threat-american-democracy/story?id=89121094",
+            "urlToImage": "https://s.abcnews.com/images/International/independence-hall-pennsylvania-president-joe-biden-01-gty-llr-220901_1662077741931_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-09-02T01:23:26Z",
+            "content": "President Joe Biden, in a rare prime-time speech, condemned Donald Trump and his \"MAGA Republicans\" as he urged the nation to unite against threats to American democracy.\r\nBiden took the stage shortl\u2026 [+4305 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Michael Carlson",
+            "title": "David McCullough obituary",
+            "description": "Bestselling historian who put the lives and experience of the people who built the US at the heart of his workDavid McCullough, who has died aged 93, was the US\u2019s most popular historian. His books were bestsellers; his biographies of Harry Truman and John Ada\u2026",
+            "url": "https://amp.theguardian.com/books/2022/aug/18/david-mccullough-obituary",
+            "urlToImage": "https://i.guim.co.uk/img/media/110e87d1abb8fda31fbffe19ac3e2063a48b85a6/0_331_5562_3337/master/5562.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5b76419ea875f6a65723eb313816622",
+            "publishedAt": "2022-08-18T18:07:37Z",
+            "content": "David McCullough, who has died aged 93, was the USs most popular historian. His books were bestsellers; his biographies of Harry Truman and John Adams both won Pulitzer prizes, and were taken up for \u2026 [+7085 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BuzzFeed News"
+            },
+            "author": "Julia Reinstein",
+            "title": "Two Men Were Convicted For The Plot To Kidnap The Governor Of Michigan",
+            "description": "Adam Fox and Barry Croft \"wanted to set off a second American civil war,\" prosecutors said in their closing arguments.View Entire Post \u203a",
+            "url": "https://www.buzzfeednews.com/article/juliareinstein/two-men-convicted-michigan-governor-kidnapping-plot",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-08/23/19/campaign_images/e326668a5ce9/two-men-were-convicted-of-plotting-to-kidnap-the--2-776-1661281397-20_dblbig.jpg",
+            "publishedAt": "2022-08-23T19:05:46Z",
+            "content": "Two of the men who plotted to kidnap Michigan Gov. Gretchen Whitmer were convicted on federal charges Tuesday.\r\nAdam Fox and Barry Croft were found guilty on charges of conspiracy to commit kidnappin\u2026 [+2142 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "kleonard@insider.com (Kimberly Leonard)",
+            "title": "Jared Kushner says he's 'pro-life' and that the Supreme Court correctly decided to overturn Roe v. Wade",
+            "description": "Kushner's wife, Ivanka Trump, came out as \"unapologetically\" anti-abortion toward the end of President Trump's term.",
+            "url": "https://www.businessinsider.com/jared-kushner-calls-himself-pro-life-on-abortion-2022-9",
+            "urlToImage": "https://i.insider.com/631217123fe7c40019e50395?width=1200&format=jpeg",
+            "publishedAt": "2022-09-02T15:31:14Z",
+            "content": "Jared Kushner has publicly come out as \"pro-life\" on the issue of abortion and said he believes the Supreme Court ruled correctly when it overturned Roe v. Wade.\u00a0\r\nThe comments appear to be the first\u2026 [+2808 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "kleonard@insider.com (Kimberly Leonard)",
+            "title": "Gov. Ron DeSantis just promised 'by far the biggest tax cuts in the history of the state of Florida'",
+            "description": "The governor didn't say where the tax breaks would happen, but they come after a $1.3 billion sales tax holiday in the sunshine state.",
+            "url": "https://www.businessinsider.com/desantis-promises-historic-tax-cuts-in-florida-2022-8",
+            "urlToImage": "https://i.insider.com/630e53b7abd32c00180a06e8?width=1200&format=jpeg",
+            "publishedAt": "2022-08-30T19:19:46Z",
+            "content": "Republican Gov. Ron DeSantis vowed Tuesday that Florida is about to see the biggest tax cuts in the history of the state.\u00a0\r\n\"We are going to roll out our tax package for next year, probably in the ne\u2026 [+2733 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Rick Klein, Averi Harper, Hannah Demissie",
+            "title": "Biden identifies 2022 campaign opponents: MAGA and Trump: The Note",
+            "description": "President Joe Biden is signaling that he wants to make the 2022 election about former President Donald Trump \u2013 and about the movement he still leads.",
+            "url": "https://abcnews.go.com/Politics/biden-identifies-2022-campaign-opponents-maga-trump-note/story?id=89173281",
+            "urlToImage": "https://s.abcnews.com/images/Politics/the-note-joe-biden-indepence-hall-01-gty-llr-220901_1662080977896_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-09-02T11:05:37Z",
+            "content": "The TAKE with Rick Klein\r\nA 2024 rematch for the presidency may or may not happen. But President Joe Biden is signaling that he wants to make the 2022 election about former President Donald Trump and\u2026 [+7891 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Kyle Morris",
+            "title": "Fetterman's press secretary tweeted she was 'mortified' to be American, made insensitive remarks on minorities",
+            "description": "The press secretary and senior spokesperson for Democrat John Fetterman's campaign for the Senate once said she was \"mortified to be an American.\"",
+            "url": "https://news.yahoo.com/fetterman-apos-press-secretary-tweeted-195227561.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/O6g6aFdtZYpTBsbNn3wS_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_news_text_979/49043d6dc11c1527576463e2cf8e5cb0",
+            "publishedAt": "2022-09-08T19:52:27Z",
+            "content": "Pennsylvania Senate Democratic nominee John Fetterman's campaign press secretary said she was \"mortified to be an American\" after the 2016 presidential election and shared potentially insensitive rem\u2026 [+5882 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Eric Cortellessa",
+            "title": "\u2018Never Trump\u2019 Groups Hope to Boost Democrats in the Midterms. But Can They Sway Their Fellow Republicans?",
+            "description": "Liz Cheney's group is the latest entrant in a network of GOP-run organizations spending millions to weaken their party's embrace of Trump.",
+            "url": "https://time.com/6211249/never-trump-liz-cheney-democrats-midterms/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2022/09/liz-cheney-adam-kinzinger-never-trump-dollars.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2022-09-07T17:20:32Z",
+            "content": "It didn\u2019t take long after Rep. Liz Cheney lost her seat in Congress last month for her to announce what she would do next. The day after the Wyoming Republican primary, she launched The Great Task, a\u2026 [+10281 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "izavarise@insider.com (Isabella Zavarise)",
+            "title": "Professor writing book about Rep. Liz Cheney says her loss is a microcosm of a battle that is 'raging' beyond Wyoming and throughout the GOP",
+            "description": "Professor Stephanie Muravchik told CBC the term \"conservative\" no longer implies an ideology but rather allegiance to former President Donald Trump.",
+            "url": "https://www.businessinsider.com/author-liz-cheney-book-primary-loss-microcosm-of-gop-2022-8",
+            "urlToImage": "https://i.insider.com/630186abc9a2da001808f206?width=1200&format=jpeg",
+            "publishedAt": "2022-08-21T02:05:28Z",
+            "content": "A professor writing a book about Republican Rep. Liz Cheney says her primary loss is a microcosm of a battle that is already \"raging\" beyond Wyoming and throughout the GOP.\u00a0\r\nIn an interview with the\u2026 [+2075 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mhall@businessinsider.com (Madison Hall,Walt Hickey)",
+            "title": "Nearly a quarter of Congress is over the age of 70 years old, making it the oldest in US history",
+            "description": "The number of lawmakers in Congress over the age of 70 has rapidly grown over the past 20 years.",
+            "url": "https://www.businessinsider.com/congress-oldest-history-gerontocracy-lawmakers-2022-9",
+            "urlToImage": "https://i.insider.com/63220540d5916b0019abb6bc?width=1200&format=jpeg",
+            "publishedAt": "2022-09-14T17:10:17Z",
+            "content": "The number of lawmakers in Congress over the age of 70 has rapidly grown over the past 20 years, Insider's \"Red, White, and Gray\" project found.\r\nIt's jumped from 8% in 2002 to 23% nearly a quarter i\u2026 [+2157 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "hkang@insider.com (Hanna Kang)",
+            "title": "'Donald' experienced a baby name bump in 2021 after being on steady decline since 1980: Social Security Administration",
+            "description": "The name 'Donald' experienced a slight bump in 2021, but an expert on baby names says the trend of naming an infant after a political figure will decline.",
+            "url": "https://www.businessinsider.com/donald-trump-baby-name-social-security-2022-9",
+            "urlToImage": "https://i.insider.com/631b8283c3104e0012505745?width=1200&format=jpeg",
+            "publishedAt": "2022-09-10T10:55:00Z",
+            "content": "A funny thing happened in 2021 the baby name \"Donald\" became more popular after decades of decline.\r\nThat's according to newly released baby name popularity records by the Social Security Administrat\u2026 [+2504 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Andrew Romano",
+            "title": "Poll: Democrats lead Republicans among those who say they'll 'definitely' vote in midterms",
+            "description": "A new Yahoo News/YouGov poll shows that Democrats are heading into the homestretch of the 2022 midterm campaign with a lead over Republicans among registered...",
+            "url": "https://news.yahoo.com/poll-democrats-lead-republicans-among-those-who-say-theyll-definitely-vote-in-midterms-221434935.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RGwcBs5r23Ne9SxE8B0AQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2022-09/2d4f92d0-2ea3-11ed-9b7e-942c5a79dfba",
+            "publishedAt": "2022-09-06T22:14:34Z",
+            "content": "A new Yahoo News/YouGov poll shows that Democrats are heading into the homestretch of the 2022 midterm campaign with a lead over Republicans among registered voters including those who say they defin\u2026 [+2379 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Laurence H Tribe and Dennis Aftergut",
+            "title": "The Trump \u2018special master\u2019 ruling violates the principle that no-one is above the law | Laurence H Tribe and Dennis Aftergut",
+            "description": "Judge Aileen Cannon\u2019s opinion screams out that she applies more lenient rules to Donald TrumpThe best thing one can say about Judge Aileen Cannon\u2019s decision Monday appointing a special master to review the documents seized from Trump\u2019s Mar-a-Lago resort is th\u2026",
+            "url": "https://amp.theguardian.com/commentisfree/2022/sep/07/the-trump-special-master-ruling-violates-the-principle-that-no-one-is-above-the-law",
+            "urlToImage": "https://i.guim.co.uk/img/media/fe6fbaa3578381f93762b07b0f269937f1f554d0/0_0_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=124b320c20cf4c21b68b2030ccc426e5",
+            "publishedAt": "2022-09-07T09:18:57Z",
+            "content": "The best thing one can say about Judge Aileen Cannons decision Monday appointing a special master toreview the documents seized from Trumps Mar-a-Lago resort is that its not the end of the world: the\u2026 [+9781 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bdawson@insider.com (Bethany Dawson)",
+            "title": "Trump treated my family like disposable pawns and tore us apart, says daughter of convicted Jan. 6 rioter",
+            "description": "Guy Reffitt was sentenced to seven years in prison for his role in the Capitol riot. His daughter Peyton spoke to Insider about to cost to her family.",
+            "url": "https://www.businessinsider.com/trump-treated-my-family-like-disposable-pawns-daughter-of-jan-6-rioter-2022-8",
+            "urlToImage": "https://i.insider.com/62f67a83306b6300192a9acf?width=1200&format=jpeg",
+            "publishedAt": "2022-08-21T17:31:18Z",
+            "content": "For Peyton Reffitt, 18, what began as debates around the dinner table ended with her family falling apart and her father receiving the longest jail sentence yet for his involvement in the Trump-inspi\u2026 [+4186 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Sandhya Dirks",
+            "title": "At the Jan. 6 hearings, race isn't discussed much. Still, it's a central issue",
+            "description": "The Jan. 6 Committee has been uncovering what led up to the insurrection. But just beneath the surface is a central cause of the riot \u2014 racism and the fear of losing white power.",
+            "url": "https://www.npr.org/2022/08/23/1117993012/january-6th-hearings-race",
+            "urlToImage": "https://media.npr.org/assets/img/2022/08/22/gettyimages-1242044129_wide-fc15be2a3f921882a7ee49e72dfd7a4166488084.jpg?s=1400",
+            "publishedAt": "2022-08-23T09:23:00Z",
+            "content": "Rep. Bennie Thompson, chair of the Jan. 6 Committee, speaks virtually during a hearing on July 21.\r\nBloomberg via Getty Images\r\nIn the opening moments of the Jan. 6 Committee hearings, Chairman Benni\u2026 [+14523 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "MICHELLE R. SMITH",
+            "title": "Michael Flynn: From government insider to holy warrior",
+            "description": "The people under the revival tent hooted as Michael Flynn strode across the stage, bopping and laughing, singing the refrain into his microphone and...",
+            "url": "https://news.yahoo.com/michael-flynn-government-insider-holy-144105439.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YCKsYc8ELiwAelT3_Nff3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/ec0519620d84e8b6536a465aa2b68eae",
+            "publishedAt": "2022-09-07T14:41:05Z",
+            "content": "BATAVIA, N.Y. (AP) The crowd swayed on its feet, arms pumping, the beat of Twisted Sisters Were Not Gonna Take It thumping in their chests. The people under the revival tent hooted as Michael Flynn s\u2026 [+26381 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Tal Axelrod",
+            "title": "Liz Cheney loses primary as Trump topples his most prominent GOP critic",
+            "description": "Rep. Liz Cheney is projected to lose her primary in Wyoming on Tuesday to Trump-backed Harriet Hageman, ABC News reports",
+            "url": "https://abcnews.go.com/Politics/liz-cheney-loses-primary-trump-topples-prominent-gop/story?id=88455634",
+            "urlToImage": "https://s.abcnews.com/images/Politics/the-note-election-primary-liz-cheney-01-gty-llr-220816_1660697209044_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-08-17T02:16:27Z",
+            "content": "Rep. Liz Cheney, R-Wyo., is projected to lose her primary on Tuesday to Donald Trump-backed Harriet Hageman, ABC News reports, after Cheney built her political profile -- and her campaign -- around c\u2026 [+3339 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Richard Wolffe",
+            "title": "Liz Cheney was purged by the cult of Trumpism. Who is next? | Richard Wolffe",
+            "description": "There\u2019s only one purge the country really needs, and that is one that goes all the way to Mar-a-LagoLiz Cheney is both the most coldly calculating and the most principled politician in the land. At least, that\u2019s what Liz Cheney and a whole host of political p\u2026",
+            "url": "https://amp.theguardian.com/commentisfree/2022/aug/18/liz-cheneys-defeat-nature-of-trumpism",
+            "urlToImage": "https://i.guim.co.uk/img/media/eec6b056fc48453cb357f510bb296329a73c0431/0_0_4114_2469/master/4114.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=aa8698940e49b55a3e8bd60b1b703ae8",
+            "publishedAt": "2022-08-18T10:00:44Z",
+            "content": "Liz Cheney is both the most coldly calculating and the most principled politician in the land. At least, thats what Liz Cheney and a whole host of political pundits would have you believe.\r\nHow else \u2026 [+6178 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Richard Ackland",
+            "title": "Lachlan Murdoch vs Crikey may turn out to be a misconceived adventure in reputation repair",
+            "description": "The defamation case could produce hitherto unknown information about the operations of Fox News that, at the least, prove embarrassingLachlan Murdoch was never much of an inspirational figure in the pantheon of news publishing, having secured his place at the\u2026",
+            "url": "https://amp.theguardian.com/commentisfree/2022/aug/26/lachlan-murdoch-vs-crickey-may-turn-out-to-be-a-misconceived-adventure-in-reputation-repair",
+            "urlToImage": "https://i.guim.co.uk/img/media/eb199e8f8847c98e8b07a20e535f5adf5fe18747/0_0_2734_1641/master/2734.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=f3a7c96cd719f2d5c9e34e876c517ec7",
+            "publishedAt": "2022-08-26T06:48:43Z",
+            "content": "Lachlan Murdoch was never much of an inspirational figure in the pantheon of news publishing, having secured his place at the helm of Fox News by a process of primogeniture.\r\nHis defamation action ag\u2026 [+6151 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Lauren Gambino in Washington",
+            "title": "\u2018The US could lose the right to vote within months\u2019: Top official warns on threat to democracy",
+            "description": "Jena Griswold urges Americans to pay attention to crucial but often overlooked races for secretary of stateColorado\u2019s secretary of state, Jena Griswold, is warning anyone who will listen that the fate of free and fair elections in the United States hangs in t\u2026",
+            "url": "https://amp.theguardian.com/us-news/2022/aug/27/jena-griswold-colorado-elections-secretary-of-state-democracy",
+            "urlToImage": "https://i.guim.co.uk/img/media/535132b31335c7bd3863753bc9ed748a76193e51/0_121_5882_3531/master/5882.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a89bdea58e517402e6ffc225746d037",
+            "publishedAt": "2022-08-28T06:00:20Z",
+            "content": "Colorados secretary of state, Jena Griswold, is warning anyone who will listen that the fate of free and fair elections in the United States hangs in the balance in this Novembers midterm contests.\r\n\u2026 [+10006 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Simon Tisdall",
+            "title": "Iran gloats, America plots, but even a nuclear deal will not tame Tehran | Simon Tisdall",
+            "description": "As Khamenei crows over Rushdie, Biden seeks a revived pact. But make no mistake: this poisonous regime will always need its Great SatanIf any one man is to blame for gleeful Iranian crowing over the attack on Salman Rushdie, it is the country\u2019s 83-year-old su\u2026",
+            "url": "https://amp.theguardian.com/commentisfree/2022/aug/21/iran-gloats-america-plots-but-even-a-nuclear-deal-will-not-tame-tehran",
+            "urlToImage": "https://i.guim.co.uk/img/media/50f4a6eeb619562083fc54f273545d18015e7cf1/0_182_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=b3485fc7906183f40177a2b6c13ad225",
+            "publishedAt": "2022-08-21T07:00:02Z",
+            "content": "If any one man is to blame for gleeful Iranian crowing over the attack on Salman Rushdie, it is the countrys 83-year-old supreme leader, Ali Khamenei. The black-turbaned ayatollahs bigoted, blinkered\u2026 [+6454 chars]"
+        }
+    ]
+}
