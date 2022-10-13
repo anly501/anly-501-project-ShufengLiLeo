@@ -1,0 +1,59 @@
+---
+title: "501 hw3"
+author: "Shufeng Li"
+date: "2022-10-12"
+output: html_document
+---
+
+```{r}
+
+library("tidyverse")
+library("e1071")
+library("caret")
+library("caTools")
+data=read_csv("/Users/shufengli/Desktop/501/america_cleaned.csv")
+data<- data%>%
+select(Trump_vote,Cliton_vote,rate,Trump,Clinton,Trump_win_ornot)
+# Splitting data into train and test data
+split <- sample.split(data$Trump_win_ornot, SplitRatio = 0.7)
+train_cl <- subset(data, split == "TRUE")
+test_cl <- subset(data, split == "FALSE")
+# Feature Scaling
+train_scale <- scale(train_cl[, 1:4])
+test_scale <- scale(test_cl[, 1:4])
+# Fitting Naive Bayes Model to training dataset
+classifier_cl <- naiveBayes(Trump_win_ornot ~ ., data = train_cl)
+classifier_cl
+# Predicting on test data'
+y_pred <- predict(classifier_cl, newdata = test_cl)
+# Confusion Matrix
+cm <- confusionMatrix(data = y_pred,reference = as.factor(test_cl$Trump_win_ornot))
+cm
+```
+
+```{r}
+library("GGally")
+a<-ggcorr(data[,1:4],method = c("everything", "pearson")) +
+  ggtitle("Correlation betweent features")+
+  theme(plot.title = element_text(size = 25, face = "bold"))
+
+a
+```
+ggsave("correlation_between_features.png", a, path = "C:/Windows/System32/anly-501-project-FlynnFlag/501-project-website/images",width = 10,height = 7)
+
+ggsave("confusion_matirx_Tweet_Account_naive_bayes.png", cf, path = "C:/Windows/System32/anly-501-project-FlynnFlag/501-project-website/images",width = 10,height = 7)
+
+```{r}
+#plot the matrix
+plt <- as.data.frame(cm$table)
+plt$Prediction <- factor(plt$Prediction, levels=rev(levels(plt$Prediction)))
+cf=ggplot(plt, aes(Prediction,Reference, fill= Freq)) +
+        geom_tile() + geom_text(aes(label=Freq)) +
+        scale_fill_gradient(low="white", high="#08306B") +
+        labs(x = "Predict Labels",y = "True Labels") +
+        ggtitle("Confusion Matrix")+
+        theme(plot.title = element_text(size = 25, face = "bold"))
+
+cf
+```
+
